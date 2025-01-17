@@ -16,3 +16,5 @@ The cypress.env.json file is included on .gitignore and you're safe that confide
 Run npm test (or npm t for the short version) to run the test in headless mode.
 
 Or, run npm run cy:open to open Cypress in interactive mode.
+
+Branch: master
