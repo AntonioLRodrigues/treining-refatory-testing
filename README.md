@@ -1,4 +1,5 @@
-Cypress, from Zero to the Cloud
+## Treining-refatory-testing 
+Test project test refactoring, study using on-site hamburgers
 Pre-requirements
 It is required to have Node.js and npm installed to run this project.
 
